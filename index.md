@@ -10,26 +10,24 @@ Subject Area: M-PSI/02
 ---
 #### Notes - Research Design
 
-|Reviewed|Name|Date|week_lec|
-|---|---|---|---|
-|[ ]|[[Flow chart]]|June 14, 2024||
-|[x]|[[Unit 13.3- Correlation and Covariance]]|June 5, 2024|14|
-|[x]|[[Unit 13.2- Correlation and Regression]]|June 10, 2024||
-|[x]|[[Unit 13.1- Association, Chi-squared test, Odds Ratio]]|June 4, 2024||
-|[x]|[[Unit 12- Intro+ to ANOVA]]|June 4, 2024||
-|[x]|[[Unit 11- Intro to ANOVA]]|April 23, 2024|9|
-|[x]|[[Unit 10- Two-sample T-test]]|April 16, 2024|8|
-|[x]|[[Unit 9- Effect Sizes and Confidence Intervals]]|May 30, 2024||
-|[x]|[[Unit 8- The T-test]]|May 30, 2024||
-|[x]|[[Unit 7- Sampling and the Z-test]]|April 9, 2024|7.2|
-|[x]|[[Unit 6- Distributions and Introduction to Inferential Statistics]]|March 26, 2024|6.2|
-|[x]|[[Unit 5- Normal Distribution and Introduction to Probability]]|March 19, 2024|5.2|
-|[x]|[[Unit 4- Descriptive Statistics]]|March 12, 2024|4.2|
-|[x]|[[Unit 3- Experiments - Biases, Design and Validity]]|March 5, 2024|3.2|
-|[x]|[[Unit 2- Measurement, levels of measurement, and Conceptual - Operational variables]]|February 27, 2024|2.2|
-|[x]|[[Unit 1- Goals, Why study, Scope and Hypotheses]]|February 20, 2024|1|
-
-  
+| Name | Date | Unit |
+|---|---|---|
+| [[Flow chart]] | June 14, 2024 | - |
+| [[Goals, Why study, Scope and Hypotheses]] | February 20, 2024 | 1 |
+| [[Measurement, levels of measurement, and Conceptual - Operational variables]] | February 27, 2024 | 2 |
+| [[Experiments - Biases, Design and Validity]] | March 5, 2024 | 3 |
+| [[Descriptive Statistics]] | March 12, 2024 | 4 |
+| [[Normal Distribution and Introduction to Probability]] | March 19, 2024 | 5 |
+| [[Distributions and Introduction to Inferential Statistics]] | March 26, 2024 | 6 |
+| [[Sampling and the Z-test]] | April 9, 2024 | 7 |
+| [[The T-test]] | May 30, 2024 | 8 |
+| [[Effect Sizes and Confidence Intervals]] | May 30, 2024 | 9 |
+| [[Two-sample T-test]] | April 16, 2024 | 10 |
+| [[Intro to ANOVA]] | April 23, 2024 | 11 |
+| [[Intro+ to ANOVA]] | June 4, 2024 | 12 |
+| [[Association, Chi-squared test, Odds Ratio]] | June 4, 2024 | 13.1 |
+| [[Correlation and Regression]] | June 10, 2024 | 13.2 |
+| [[Correlation and Covariance]] | June 5, 2024 | 13.3 |
   
 
 ---
