@@ -22,6 +22,8 @@ week_lec: 8
 
 ---
 
+{% raw %}
+
 ## Two-Sample Independent Measures t-test
 
 > [!important] This t-test compares two means that are drawn from separate, or independent samples.
@@ -387,3 +389,5 @@ Despite their sensitivity, repeated-measures (cross-over) designs have certain l
 > [!important] While dependent (pai) t-tests can offer greater sensitivity due to uced variance, they also come with challenges such as order effects, carryover effects, and increased complexity in design and analysis.
 > 
 > **Independent t-tests, although potentially less sensitive, do not suffer from these particular limitations.**
+
+{% endraw %}
