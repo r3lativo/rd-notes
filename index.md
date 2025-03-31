@@ -1,11 +1,9 @@
 ---
 Course code: "154101"
 Year/Semester:
-  - First Half
-  - Second Half
-  - Spring 23/24
+  - Spring 2023/24
 Prof: Hasson Uri
-Email: uri.hasson@unitn.it
+Email: uri.hasson[at]unitn.it
 Subject Area: M-PSI/02
 ---
 
