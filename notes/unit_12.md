@@ -29,6 +29,8 @@ Reviewed: true
 
 ---
 
+{% raw %}
+
 # Two-way ANOVA between participants
 
 ![[Untitled 24.png|Untitled 24.png]]
@@ -526,3 +528,5 @@ We work with two variance quantities:
     
 
 > [!important] The higher the model and the lower the error, the more significant our result.
+
+{% endraw %}
