@@ -11,7 +11,7 @@ Subject Area: M-PSI/02
 | Unit | Name | Date |
 |---|---|---|
 | - | [[Flow chart]] | June 14, 2024 |
-| 1 | [[Goals, Why study, Scope and Hypotheses]] | February 20, 2024 |
+| 1 | [Goals, Why study, Scope and Hypotheses](notes/unit_1.md) | February 20, 2024 |
 | 2 | [[Measurement, levels of measurement, and Conceptual - Operational variables]] | February 27, 2024 |
 | 3 | [[Experiments - Biases, Design and Validity]] | March 5, 2024 |
 | 4 | [[Descriptive Statistics]] | March 12, 2024 |
