@@ -30,6 +30,10 @@ week_lec: 1
 - [[#Setting error-probabilities for Type I and Type II errors]]
 - [[#Advancing by rejection]]
 
+---
+
+{% raw %}
+
 ### Goals of the course
 
 In this course, our primary aim is to equip you with the skills to effectively utilize **research design and methods in addressing scientific inquiries.** Understanding research methods (RM) is crucial for devising research programs that can best tackle the underlying research questions.
@@ -385,3 +389,6 @@ Formally: **If theory A is correct, hypothesis H is supported**. So:
 > : oftentimes, we find ourselves with set up methods that ’follow’ the rejection model but meant to confirm prior ideas. Beware the straw-man null, **an hypothesis which is easy to refute, so to end up with your own ideas.**
 > 
 > > People very rarely construct experiments in a way in which to more easily reject their own idea, as we human have a bias to confirm their conceptions.
+
+{% endraw %}
+
