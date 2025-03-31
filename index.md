@@ -1,12 +1,10 @@
 
-Course code: "154101"
-Year/Semester: Spring 2023/24
-Prof: Hasson Uri
-Email: uri.hasson[at]unitn.it
-Subject Area: M-PSI/02
+Course code: "154101"  
+Year/Semester: Spring 2023/24  
+Prof: Hasson Uri  
+Email: uri.hasson[at]unitn.it  
+Subject Area: M-PSI/02  
 
-
-#### Notes - Research Design
 
 | Unit | Name | Date |
 |---|---|---|
