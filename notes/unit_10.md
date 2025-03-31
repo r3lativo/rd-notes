@@ -13,12 +13,12 @@ week_lec: 8
     - [[#Assumptions Underlying the T-Test for Independent Groups]]
     - [[#Effect size and confidence interval]]
     - [[#Sample problem]]
-- [[#Two-Sample Dependent (Paired) Measures t-test]]
+- [[#Two-Sample Dependent (Pai) Measures t-test]]
     - [[#Formula]]
     - [[#Example]]
 - [[#Comparison: Independent vs Dependent t-test]]
     - [[#Practical Example]]
-    - [[#Sensitivity of Dependent (Paired) Designs]]
+    - [[#Sensitivity of Dependent (Pai) Designs]]
 
 ---
 
@@ -110,7 +110,7 @@ Where $\sigma^2 = \sigma^2_1 = \sigma^2_2$ which is the variance of each populat
 
 If the population variance $\sigma_2^2$ was known we could derive a Z value for the difference using the standard logic:
 
-$$z_\text{obt} = {{\red{(\overline{x}_1 - \overline{x}_2)} - \blue0} \over{\orange{\sqrt{\sigma^2 ({1\over{n_1}} + {1\over{n_2}})}}}}$$
+$$z_\text{obt} = {{\red{(\overline{x}_1 - \overline{x}_2)} - \blue0} \over{\orange{\sqrt{\sigma^2 ({1\over{n_1}} + {1\over{n_2}})}}/\}/\}/$$
 
 The ==difference between the two samples== and ==the difference expected according to the null hypothesis (0)== is expressed in ==units of the relevant standard deviation==.
 
@@ -384,6 +384,6 @@ Despite their sensitivity, repeated-measures (cross-over) designs have certain l
 2. **Carryover Effects**: The effect of the first treatment might carry over and influence the results of the second treatment. This can obscure the true effect of the second treatment.
 3. **Increased Complexity**: Designing and analyzing repeated measures can be more complex, requiring more advanced statistical techniques to account for the correlation between measurements.
 
-> [!important] While dependent (paired) t-tests can offer greater sensitivity due to reduced variance, they also come with challenges such as order effects, carryover effects, and increased complexity in design and analysis.
+> [!important] While dependent (pai) t-tests can offer greater sensitivity due to uced variance, they also come with challenges such as order effects, carryover effects, and increased complexity in design and analysis.
 > 
 > **Independent t-tests, although potentially less sensitive, do not suffer from these particular limitations.**
