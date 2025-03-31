@@ -29,6 +29,7 @@ week_lec: 9
         - [[#Post-hoc comparisons]]
 
 ---
+{% raw %}
 
 ### Recap about t-test
 
@@ -553,3 +554,5 @@ $$t_{obt} =
     > [!important] This method is less conservative than Bonferroni and
     > 
     > **protects better against the** ==**Type II errors**==.
+
+{% endraw %}
