@@ -110,7 +110,7 @@ Where $\sigma^2 = \sigma^2_1 = \sigma^2_2$ which is the variance of each populat
 
 If the population variance $\sigma_2^2$ was known we could derive a Z value for the difference using the standard logic:
 
-$$z_\text{obt} = {{\red{(\overline{x}_1 - \overline{x}_2)} - \blue0} \over{\orange{\sqrt{\sigma^2 ({1\over{n_1}} + {1\over{n_2}})}}/\}/\}/$$
+$$z_\text{obt} = {{\red{(\overline{x}_1 - \overline{x}_2)} - \blue0} \over{\orange{\sqrt{\sigma^2 ({1\over{n_1}} + {1\over{n_2}})}}}}$$
 
 The ==difference between the two samples== and ==the difference expected according to the null hypothesis (0)== is expressed in ==units of the relevant standard deviation==.
 
