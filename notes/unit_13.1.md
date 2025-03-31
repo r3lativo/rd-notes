@@ -20,6 +20,8 @@ Reviewed: true
 
 ---
 
+{% raw %}
+
 # Types of Association
 
 > [!important] Up until now we talked about difference -
@@ -268,3 +270,5 @@ It’s evident that **if the Odds Ratio (OR) is equal to 1**, then the relative 
 
 1. Creating a Confidence Interval for the OR. If the CI includes 1, there’s nothing very interesting here. $95\%\ CI = e^{[\ln(OR) \pm 1.96 \sqrt{(\frac1a + \frac1b+ \frac1c + \frac1d)}]}$
 2. Using the **Fisher Exact Test**, which let us set up **specific hypotheses about the OR** (two-sided or one-sided) and provides better flexibility.
+
+{% endraw %}
