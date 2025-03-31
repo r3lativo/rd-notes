@@ -1,6 +1,6 @@
 title: "Research Design Notes"
 description: "Lecture notes for Research Design"
-theme: jekyll-theme-minimal  # You can change this theme
+theme: minima
 markdown: kramdown
 kramdown:
   math_engine: mathjax
